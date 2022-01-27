@@ -1,7 +1,8 @@
 node_modules
 
+/.vscode
 /.cache
 /build
 /public/build
 /prisma/node_modules
-.env
+/.env
